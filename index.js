@@ -1,24 +1,48 @@
 /**
  * @Author { String } ldq
  */
-const addTwoNumbers = (a, b) => {
-  let carry = 0, arr = [], res = {}
-  while (a.val !== 0 || b.val !== 0) {
-    let s = a.val + b.val + carry
-    if (s > 9) carry = 1
-    else carry = 0
-    arr.push(s % 10)
-    a = a.next ? a.next : { val: 0, next: null }
-    b = b.next ? b.next : { val: 0, next: null }
+const oddEvenList = head => {
+  if (!head || !head.next || !head.next.next) return head
+  let odd = head, even = head.next
+  let temp = even
+  while (odd && even && even.next) {
+    console.log(JSON.stringify(odd))
+    console.log(JSON.stringify(even))
+    odd.next = even.next
+    odd = odd.next
+    even.next = odd.next
+    even = even.next
   }
-  for (let i = arr.length - 1; i >= 0; i--) {
-    res.val = 
-  }
+  console.log(JSON.stringify(odd))
+  console.log(JSON.stringify(even))
+  odd.next = temp
+  return head
 }
 
 console.log(JSON.stringify(
-  addTwoNumbers(
-    {"val":2,"next":{"val":4,"next":{"val":3,"next":null}}},
-    {"val":5,"next":{"val":6,"next":{"val":4,"next":{"val":9,"next":null}}}}
+  oddEvenList(
+    {val:1,next:{val:2,next:{val:3,next:{val:4,next:{val:5,next:{val:6,next:null}}}}}}
   )
 ))
+
+// a={
+
+// head: {val:1,next:{val:2,next:{val:3,next:{val:4,next:{val:5,next:{val:6,next:null}}}}}}
+
+
+
+// // 刚开始
+// odd: {val:1,next:{val:2,next:{val:3,next:{val:4,next:{val:5,next:{val:6,next:null}}}}}}
+// even: {val:2,next:{val:3,next:{val:4,next:{val:5,next:{val:6,next:null}}}}}
+
+// head: {val:1,next:{val:2,next:{val:3,next:{val:4,next:{val:5,next:{val:6,next:null}}}}}}
+// head[next]: {val:2,next:{val:3,next:{val:4,next:{val:5,next:{val:6,next:null}}}}}
+
+
+// // 第一次交换
+
+
+
+// // 第二次交换
+
+// }
