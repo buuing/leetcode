@@ -4,4 +4,4 @@
 
 | 难度 | 标题 | 题解 |
 | :---: | :---: | :---: |
-| <span style="color: #5cb85c">简单</span> | [704. 二分查找](https://leetcode-cn.com/problems/binary-search) | [JavaScript版](./easy/)
+| <span style="color: #5cb85c">简单</span> | [704. 二分查找](https://leetcode-cn.com/problems/binary-search) | [JavaScript版](./easy/704.binary-search.md)
