@@ -15,14 +15,13 @@ const mySqrt = x => {
 }
 
 /**
- * 牛顿迭代法
+ * 使用牛顿迭代法解题
  */
 const mySqrt = x => {
-  let res = x, queue = []
-  while (true) {
-    res = (res + x / res) / 2
-    let n = res >> 0
-    if (queue.indexOf(n) !== -1) return n
-    queue.push(n)
+  let a = x, prev = 0
+  while (prev !== (x >> 0)) {
+    prev = x >> 0
+    x = (x + a / x) / 2
   }
+  return prev
 }
