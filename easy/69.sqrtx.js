@@ -13,3 +13,16 @@ const mySqrt = x => {
   }
   return findNum(1, x)
 }
+
+/**
+ * 牛顿迭代法
+ */
+const mySqrt = x => {
+  let res = x, queue = []
+  while (true) {
+    res = (res + x / res) / 2
+    let n = res >> 0
+    if (queue.indexOf(n) !== -1) return n
+    queue.push(n)
+  }
+}
