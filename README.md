@@ -4,7 +4,7 @@
 
 | 难度 | 标题 | 题解 |
 | :---: | :--- | :--- |
-| `中等` | [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image) | [JavaScript版](./easy/48.rotate-image.js)
+| `中等` | [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image) | [JavaScript版](./medium/48.rotate-image.js)
 | `简单` | [66. 加一](https://leetcode-cn.com/problems/plus-one) | [JavaScript版](./easy/66.plus-one.js)
 | `简单` | [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx) | [JavaScript版](./easy/69.sqrtx.js)
 | `简单` | [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) | [JavaScript版](./easy/121.best-time-to-buy-and-sell-stock.js)
