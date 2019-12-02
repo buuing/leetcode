@@ -5,6 +5,7 @@
 | 难度 | 标题 | 题解 |
 | :---: | :--- | :--- |
 | `简单` | [7. 整数反转](https://leetcode-cn.com/problems/reverse-integer) | [JavaScript版](./easy/7.reverse-integer.js)
+| `简单` | [38. 报数](https://leetcode-cn.com/problems/count-and-say) | [JavaScript版](./easy/38.count-and-say.js)
 | `中等` | [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image) | [JavaScript版](./medium/48.rotate-image.js)
 | `简单` | [66. 加一](https://leetcode-cn.com/problems/plus-one) | [JavaScript版](./easy/66.plus-one.js)
 | `简单` | [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx) | [JavaScript版](./easy/69.sqrtx.js)
