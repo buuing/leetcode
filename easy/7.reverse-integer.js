@@ -10,5 +10,5 @@ const reverse = x => {
     (~~curr || res) && (res += curr)
   }
   res *= (flag ? -1 : 1)
-  return res > Math.pow(2, 31) - 1 || res < - Math.pow(2, 31) ? 0 : res
+  return res > Math.pow(2, 31) - 1 || res < -Math.pow(2, 31) ? 0 : res
 }
