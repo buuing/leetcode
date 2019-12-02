@@ -5,6 +5,7 @@
 | 难度 | 标题 | 题解 |
 | :---: | :--- | :--- |
 | `简单` | [7. 整数反转](https://leetcode-cn.com/problems/reverse-integer) | [JavaScript版](./easy/7.reverse-integer.js)
+| `中等` | [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [JavaScript版](./easy/34.find-first-and-last-position-of-element-in-sorted-array.js)
 | `简单` | [38. 报数](https://leetcode-cn.com/problems/count-and-say) | [JavaScript版](./easy/38.count-and-say.js)
 | `中等` | [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image) | [JavaScript版](./medium/48.rotate-image.js)
 | `简单` | [66. 加一](https://leetcode-cn.com/problems/plus-one) | [JavaScript版](./easy/66.plus-one.js)
