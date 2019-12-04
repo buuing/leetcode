@@ -15,5 +15,6 @@
 | `简单` | [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii) | [JavaScript版](./easy/122.best-time-to-buy-and-sell-stock-ii.js)
 | `简单` | [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome) | [JavaScript版](./easy/125.valid-palindrome.js)
 | `简单` | [237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list) | [JavaScript版](./easy/237.delete-node-in-a-linked-list.js)
+| `简单` | [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version) | [JavaScript版](./easy/278.first-bad-version.js)
 | `简单` | [704. 二分查找](https://leetcode-cn.com/problems/binary-search) | [JavaScript版](./easy/704.binary-search.js)
 | `简单` | [747. 至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others) | [JavaScript版](./easy/747.largest-number-at-least-twice-of-others.js)
