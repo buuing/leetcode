@@ -12,6 +12,7 @@
 | `简单` | [66. 加一](https://leetcode-cn.com/problems/plus-one) | [JavaScript版](./easy/66.plus-one.js)
 | `简单` | [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx) | [JavaScript版](./easy/69.sqrtx.js)
 | `简单` | [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array) | [JavaScript版](./easy/88.merge-sorted-array.js)
+| `中等` | [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) | [JavaScript版](./medium/94.binary-tree-inorder-traversal.js)
 | `中等` | [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree) | [JavaScript版](./medium/98.validate-binary-search-tree.js)
 | `简单` | [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) | [JavaScript版](./easy/121.best-time-to-buy-and-sell-stock.js)
 | `简单` | [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii) | [JavaScript版](./easy/122.best-time-to-buy-and-sell-stock-ii.js)
