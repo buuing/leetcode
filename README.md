@@ -21,5 +21,6 @@
 | `中等` | [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator) | [JavaScript版](./medium/173.binary-search-tree-iterator.js)
 | `简单` | [237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list) | [JavaScript版](./easy/237.delete-node-in-a-linked-list.js)
 | `简单` | [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version) | [JavaScript版](./easy/278.first-bad-version.js)
+| `简单` | [700. 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree) | [JavaScript版](./easy/700.search-in-a-binary-search-tree.js)
 | `简单` | [704. 二分查找](https://leetcode-cn.com/problems/binary-search) | [JavaScript版](./easy/704.binary-search.js)
 | `简单` | [747. 至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others) | [JavaScript版](./easy/747.largest-number-at-least-twice-of-others.js)
