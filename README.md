@@ -20,8 +20,6 @@
 | `中等` | [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image) | [JavaScript版](./medium/48.rotate-image.js)
 | `中等` | [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix) | [JavaScript版](./medium/54.spiral-matrix.js)
 | `简单` | [66. 加一](https://leetcode-cn.com/problems/plus-one) | [JavaScript版](./easy/66.plus-one.js)
-
-
 | `简单` | [67. 二进制求和](https://leetcode-cn.com/problems/add-binary) | [JavaScript版](./easy/67.add-binary.js)
 | `简单` | [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx) | [JavaScript版](./easy/69.sqrtx.js)
 | `简单` | [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array) | [JavaScript版](./easy/88.merge-sorted-array.js)
