@@ -21,6 +21,7 @@
 | `中等` | [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator) | [JavaScript版](./medium/173.binary-search-tree-iterator.js)
 | `简单` | [237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list) | [JavaScript版](./easy/237.delete-node-in-a-linked-list.js)
 | `简单` | [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version) | [JavaScript版](./easy/278.first-bad-version.js)
+| `中等` | [450. 删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst) | [JavaScript版](./medium/450.delete-node-in-a-bst.js)
 | `简单` | [700. 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree) | [JavaScript版](./easy/700.search-in-a-binary-search-tree.js)
 | `中等` | [701. 二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree) | [JavaScript版](./medium/701.insert-into-a-binary-search-tree.js)
 | `简单` | [704. 二分查找](https://leetcode-cn.com/problems/binary-search) | [JavaScript版](./easy/704.binary-search.js)
