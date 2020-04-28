@@ -59,6 +59,7 @@
 | `简单` | [557. 反转字符串中的单词III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii) | [JavaScript版](./easy/557.reverse-words-in-a-string-iii.js)
 | `简单` | [561. 数组拆分I](https://leetcode-cn.com/problems/array-partition-i) | [JavaScript版](./easy/561.array-partition-i.js)
 | `简单` | [589. N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal) | [JavaScript版](./easy/589.n-ary-tree-preorder-traversal.js)
+| `简单` | [590. N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal) | [JavaScript版](./easy/590.n-ary-tree-postorder-traversal.js)
 | `简单` | [605. 种花问题](https://leetcode-cn.com/problems/can-place-flowers) | [JavaScript版](./easy/605.can-place-flowers.js)
 | `中等` | [622. 设计循环队列](https://leetcode-cn.com/problems/design-circular-queue) | [JavaScript版](./medium/622.design-circular-queue.js)
 | `简单` | [696. 计数二进制子串](https://leetcode-cn.com/problems/count-binary-substrings) | [JavaScript版](./easy/696.count-binary-substrings.js)
