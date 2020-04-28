@@ -51,6 +51,7 @@
 | `简单` | [283. 移动零](https://leetcode-cn.com/problems/move-zeroes) | [JavaScript版](./easy/283.move-zeroes.js)
 | `中等` | [328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list) | [JavaScript版](./medium/328.odd-even-linked-list.js)
 | `简单` | [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string) | [JavaScript版](./easy/344.reverse-string.js)
+| `中等` | [429. N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal) | [JavaScript版](./medium/429.n-ary-tree-level-order-traversal.js)
 | `中等` | [450. 删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst) | [JavaScript版](./medium/450.delete-node-in-a-bst.js)
 | `简单` | [459. 重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern) | [JavaScript版](./easy/459.repeated-substring-pattern.js)
 | `简单` | [485. 最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones) | [JavaScript版](./easy/485.max-consecutive-ones.js)
