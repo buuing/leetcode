@@ -58,6 +58,7 @@
 | `中等` | [498. 对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse) | [JavaScript版](./medium/498.diagonal-traverse.js)
 | `简单` | [541. 反转字符串II](https://leetcode-cn.com/problems/reverse-string-ii) | [JavaScript版](./easy/541.reverse-string-ii.js)
 | `简单` | [557. 反转字符串中的单词III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii) | [JavaScript版](./easy/557.reverse-words-in-a-string-iii.js)
+| `简单` | [559. N叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree) | [JavaScript版](./easy/559.maximum-depth-of-n-ary-tree.js)
 | `简单` | [561. 数组拆分I](https://leetcode-cn.com/problems/array-partition-i) | [JavaScript版](./easy/561.array-partition-i.js)
 | `简单` | [589. N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal) | [JavaScript版](./easy/589.n-ary-tree-preorder-traversal.js)
 | `简单` | [590. N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal) | [JavaScript版](./easy/590.n-ary-tree-postorder-traversal.js)
