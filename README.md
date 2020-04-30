@@ -72,3 +72,4 @@
 | `简单` | [724. 寻找数组的中心索引](https://leetcode-cn.com/problems/) | [JavaScript版](./easy/724.find-pivot-index.js)
 | `简单` | [747. 至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others) | [JavaScript版](./easy/747.largest-number-at-least-twice-of-others.js)
 | `简单` | [914. 卡牌分组](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards) | [JavaScript版](./easy/914.x-of-a-kind-in-a-deck-of-cards.js)
+| `简单` | [1422. 分割字符串的最大得分](https://leetcode-cn.com/problems/maximum-score-after-splitting-a-string) | [JavaScript版](./easy/1422.maximum-score-after-splitting-a-string.js)
