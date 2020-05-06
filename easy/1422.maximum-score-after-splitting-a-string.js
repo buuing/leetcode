@@ -26,7 +26,20 @@ const maxScore = s => {
       index = i
     }
   }
-  let left = [].filter.call(s.slice(0, index), _ => _ === '0').length
-  let right = [].filter.call(s.slice(index,), _ => _ === '1').length
+  let left = [].filter.call(s.slice(0, index), v => v === '0').length
+  let right = [].filter.call(s.slice(index,), v => v === '1').length
   return left + right
+}
+
+// 先拿到1的总量, 再循环比对大小
+const maxScore = s => {
+  let num0 = 0, num1 = 0, max = 0
+  for (let i = 0; i < s.length; i++) {
+    if (s[i] === '1') num1++
+  }
+  for (let i = 0; i < s.length - 1; i++) {
+    s[i] === '0' ? num0++ : num1--
+    max = Math.max(max, num0 + num1)
+  }
+  return max
 }
