@@ -56,6 +56,7 @@
 | `简单` | [459. 重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern) | [JavaScript版](./easy/459.repeated-substring-pattern.js)
 | `简单` | [485. 最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones) | [JavaScript版](./easy/485.max-consecutive-ones.js)
 | `中等` | [498. 对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse) | [JavaScript版](./medium/498.diagonal-traverse.js)
+| `简单` | [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number) | [JavaScript版](./easy/509.fibonacci-number.js)
 | `简单` | [541. 反转字符串II](https://leetcode-cn.com/problems/reverse-string-ii) | [JavaScript版](./easy/541.reverse-string-ii.js)
 | `简单` | [557. 反转字符串中的单词III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii) | [JavaScript版](./easy/557.reverse-words-in-a-string-iii.js)
 | `简单` | [559. N叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree) | [JavaScript版](./easy/559.maximum-depth-of-n-ary-tree.js)
