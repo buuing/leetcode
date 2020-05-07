@@ -29,6 +29,7 @@
 | `中等` | [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree) | [JavaScript版](./medium/98.validate-binary-search-tree.js)
 | `简单` | [118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle) | [JavaScript版](./easy/118.pascals-triangle.js)
 | `简单` | [119. 杨辉三角II](https://leetcode-cn.com/problems/pascals-triangle-ii) | [JavaScript版](./easy/119.pascals-triangle-ii.js)
+| `中等` | [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle) | [JavaScript版](./medium/120.triangle.js)
 | `简单` | [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) | [JavaScript版](./easy/121.best-time-to-buy-and-sell-stock.js)
 | `简单` | [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii) | [JavaScript版](./easy/122.best-time-to-buy-and-sell-stock-ii.js)
 | `简单` | [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome) | [JavaScript版](./easy/125.valid-palindrome.js)
