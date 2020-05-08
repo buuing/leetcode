@@ -36,3 +36,15 @@ const uniquePaths = (m, n) => {
   }
   return matrix[n - 1][m - 1]
 }
+
+// 动态规划 (终极优化版 - 数组降维)
+const uniquePaths = (m, n) => {
+  if (m === 1) return 1
+  const arr = new Array(m).fill(1)
+  for (let i = 1; i < n; i++) {
+    for (let j = 1; j < m; j++) {
+      arr[j] += arr[j - 1]
+    }
+  }
+  return arr[m - 1]
+}
