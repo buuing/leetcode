@@ -27,6 +27,7 @@
 | `简单` | [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs) | [JavaScript版](./easy/70.climbing-stairs.js)
 | `简单` | [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array) | [JavaScript版](./easy/88.merge-sorted-array.js)
 | `中等` | [89. 格雷编码](https://leetcode-cn.com/problems/gray-code) | [JavaScript版](./medium/89.gray-code.js)
+| `中等` | [91. 解码方法](https://leetcode-cn.com/problems/decode-ways) | [JavaScript版](./medium/91.decode-ways.js)
 | `中等` | [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) | [JavaScript版](./medium/94.binary-tree-inorder-traversal.js)
 | `中等` | [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree) | [JavaScript版](./medium/98.validate-binary-search-tree.js)
 | `简单` | [118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle) | [JavaScript版](./easy/118.pascals-triangle.js)
