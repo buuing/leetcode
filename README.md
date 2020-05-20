@@ -20,6 +20,7 @@
 | `中等` | [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image) | [JavaScript版](./medium/48.rotate-image.js)
 | `中等` | [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix) | [JavaScript版](./medium/54.spiral-matrix.js)
 | `中等` | [62. 不同路径](https://leetcode-cn.com/problems/unique-paths) | [JavaScript版](./medium/62.unique-paths.js)
+| `中等` | [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii) | [JavaScript版](./medium/63.unique-paths-ii.js)
 | `中等` | [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum) | [JavaScript版](./medium/64.minimum-path-sum.js)
 | `简单` | [66. 加一](https://leetcode-cn.com/problems/plus-one) | [JavaScript版](./easy/66.plus-one.js)
 | `简单` | [67. 二进制求和](https://leetcode-cn.com/problems/add-binary) | [JavaScript版](./easy/67.add-binary.js)
