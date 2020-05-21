@@ -46,6 +46,7 @@
 | `简单` | [167. 两数之和II-输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted) | [JavaScript版](./easy/167.two-sum-ii-input-array-is-sorted.js)
 | `中等` | [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator) | [JavaScript版](./medium/173.binary-search-tree-iterator.js)
 | `简单` | [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array) | [JavaScript版](./easy/189.rotate-array.js)
+| `简单` | [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber) | [JavaScript版](./easy/198.house-robber.js)
 | `简单` | [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements) | [JavaScript版](./easy/203.remove-linked-list-elements.js)
 | `简单` | [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list) | [JavaScript版](./easy/206.reverse-linked-list.js)
 | `中等` | [209. 长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum) | [JavaScript版](./medium/209.minimum-size-subarray-sum.js)
