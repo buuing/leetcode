@@ -26,5 +26,3 @@ const rob = root => {
   dp.set(root, Math.max(val, rob(root.left) + rob(root.right)))
   return dp.get(root)
 }
-
-// 动态规划

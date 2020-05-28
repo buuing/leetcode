@@ -1,28 +1,45 @@
-/**
- * @Author { String } ldq
- */
-const flatten = (head, next) => {
-  let curr = head
-  while (curr && (curr.next || curr.child)) {
-    if (curr.child) {
-      console.log('curr',curr.val)
-      curr.next = flatten(curr.child, curr.next)
-      curr.child = null
-      // curr.next.prev = curr
-    }
-    curr = curr.next
+
+const canPartition = nums => {
+  let len = nums.length, sum = 0
+  for (let i = 0; i < len; i++) {
+    sum += nums[i]
   }
-  next && (curr.next = next)
-  return head
+  if (sum % 2 !== 0) return false
+  sum = sum / 2
+  let dp = [[1]]
+  dp[0][nums[0]] = 1
+  for (let i = 1; i < len; i++) { // 物品序号
+    dp[i] = [1]
+    let curr = nums[i]
+    for (let j = 1; j <= sum; j++) { // 背包容量
+      // console.log(dp[i - 1])
+    console.log(JSON.stringify(dp[]))
+      console.log(j, curr, dp[i - 1][j - curr])
+      dp[i][j] = (dp[i - 1][j] || dp[i - 1][j - curr]) ? 1 : 0
+    }
+  }
+    console.log(JSON.stringify(dp))
+  console.log(sum)
+  return !!dp[len - 1][sum]
 }
 
+console.log(
+  canPartition([
+    1,2,5
+  ])
+)
 
-console.log(JSON.stringify(
-  flatten(
-    {val:"1","child":null,"next":{val:"2","child":null,"next":{val:"3","next":{val:"4","child":null,"next":{val:"5","child":null,"next":{val:"6","child":null,"next":null}},
-      "child":{val:"7","child":null,"next":{val:"8","child":{val:"11","child":null,"next":{val:"12","child":null,"next":null}},"next":{val:"9","child":null,"next":{val:"10","child":null,"next":null}}}}}}}}
-  )
-))
+//  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14
+// [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0] // 5
+// [1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0] // 3
+// [1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0] // 3
 
-// {"$id":"1","child":null,"next":{"$id":"2","child":null,"next":{"$id":"3","child":null,"next":{"$id":"4","child":null,"next":{"$id":"5","child":null,"next":{"$id":"6","child":null,"next":{"$id":"7","child":null,"next":{"$id":"8","child":null,"next":{"$id":"9","child":null,"next":{"$id":"10","child":null,"next":{"$id":"11","child":null,"next":{"$id":"12","child":null,"next":null,"prev":{"$ref":"11"},"val":6},"prev":{"$ref":"10"},"val":5},"prev":{"$ref":"3"},"val":4},"prev":{"$ref":"8"},"val":10},"prev":{"$ref":"5"},"val":9},"prev":{"$ref":"6"},"val":12},"prev":{"$ref":"5"},"val":11},"prev":{"$ref":"4"},"val":8},"prev":{"$ref":"3"},"val":7},"prev":{"$ref":"2"},"val":3},"prev":{"$ref":"1"},"val":2},"prev":null,"val":1}
-// {"$id":"1","child":null,"next":{"$id":"2","child":null,"next":{"$id":"3","child":null,"next":{"$id":"4","child":null,"next":{"$id":"5","child":null,"next":{"$id":"6","child":null,"next":{"$id":"7","child":null,"next":{"$id":"8","child":null,"next":{"$id":"9","child":null,"next":{"$id":"10","child":null,"next":{"$id":"11","child":null,"next":{"$id":"12","child":null,"next":null,"prev":{"$ref":"11"},"val":6},"prev":{"$ref":"10"},"val":5},"prev":{"$ref":"9"},"val":4},"prev":{"$ref":"8"},"val":10},"prev":{"$ref":"7"},"val":9},"prev":{"$ref":"6"},"val":12},"prev":{"$ref":"5"},"val":11},"prev":{"$ref":"4"},"val":8},"prev":{"$ref":"3"},"val":7},"prev":{"$ref":"2"},"val":3},"prev":{"$ref":"1"},"val":2},"prev":null,"val":1}
+
+// [
+//   [1,1,0,0,0], // 1
+//   [1,1,1,1,0], // 2
+//   [1,1,1,1,0], // 5
+// ]
+
+// 本身是否等于容量
+// 本身 + 前一个是否等于容量
