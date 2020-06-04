@@ -1,4 +1,4 @@
-
+// 暴力双循环
 const letterCombinations = str => {
   const opt = {
     2: ['a', 'b', 'c'],
@@ -24,4 +24,19 @@ const letterCombinations = str => {
     return arr
   })
 }
-```
+
+// 暴力回溯
+const letterCombinations = digits => {
+  if (!digits) return []
+  let res = [],
+    map = ['', '', 'abc', 'def', 'ghi', 'jkl', 'mno', 'pqrs', 'tuv', 'wxyz']
+  const compute = (index, s) => {
+    if (index === digits.length) return res.push(s)
+    const curr = map[digits[index]]
+    for (let i = 0; i < curr.length; i++) {
+      compute(index + 1, s + curr[i])
+    }
+  }
+  compute(0, '')
+  return res
+}
