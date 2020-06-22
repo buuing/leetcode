@@ -8,6 +8,7 @@
 | `中等` | [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers) | [JavaScript版](./medium/2.add-two-numbers.js)
 | `简单` | [7. 整数反转](https://leetcode-cn.com/problems/reverse-integer) | [JavaScript版](./easy/7.reverse-integer.js)
 | `中等` | [8. 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi) | [JavaScript版](./medium/8.string-to-integer-atoi.js)
+| `简单` | [9. 回文数](https://leetcode-cn.com/problems/palindrome-number) | [JavaScript版](./easy/9.palindrome-number.js)
 | `简单` | [14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix) | [JavaScript版](./easy/14.longest-common-prefix.js)
 | `中等` | [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) | [JavaScript版](./medium/17.letter-combinations-of-a-phone-number.js)
 | `中等` | [19. 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list) | [JavaScript版](./medium/19.remove-nth-node-from-end-of-list.js)
