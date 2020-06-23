@@ -18,6 +18,7 @@
 | `简单` | [28. 实现strStr()](https://leetcode-cn.com/problems/implement-strstr) | [JavaScript版](./easy/28.implement-strstr.js)
 | `中等` | [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [JavaScript版](./medium/34.find-first-and-last-position-of-element-in-sorted-array.js)
 | `简单` | [38. 报数](https://leetcode-cn.com/problems/count-and-say) | [JavaScript版](./easy/38.count-and-say.js)
+| `中等` | [46. 全排列](https://leetcode-cn.com/problems/permutations) | [JavaScript版](./medium/46.permutations.js)
 | `中等` | [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image) | [JavaScript版](./medium/48.rotate-image.js)
 | `中等` | [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix) | [JavaScript版](./medium/54.spiral-matrix.js)
 | `中等` | [62. 不同路径](https://leetcode-cn.com/problems/unique-paths) | [JavaScript版](./medium/62.unique-paths.js)
