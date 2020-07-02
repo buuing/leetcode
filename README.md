@@ -29,6 +29,7 @@
 | `简单` | [67. 二进制求和](https://leetcode-cn.com/problems/add-binary) | [JavaScript版](./easy/67.add-binary.js)
 | `简单` | [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx) | [JavaScript版](./easy/69.sqrtx.js)
 | `简单` | [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs) | [JavaScript版](./easy/70.climbing-stairs.js)
+| `中等` | [77. 组合](https://leetcode-cn.com/problems/combinations/submissions) | [JavaScript版](./medium/77.submissions.js)
 | `简单` | [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array) | [JavaScript版](./easy/88.merge-sorted-array.js)
 | `中等` | [89. 格雷编码](https://leetcode-cn.com/problems/gray-code) | [JavaScript版](./medium/89.gray-code.js)
 | `中等` | [91. 解码方法](https://leetcode-cn.com/problems/decode-ways) | [JavaScript版](./medium/91.decode-ways.js)
