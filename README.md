@@ -19,6 +19,7 @@
 | `中等` | [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [JavaScript版](./medium/34.find-first-and-last-position-of-element-in-sorted-array.js)
 | `简单` | [38. 报数](https://leetcode-cn.com/problems/count-and-say) | [JavaScript版](./easy/38.count-and-say.js)
 | `中等` | [39. 组合总和](https://leetcode-cn.com/problems/combination-sum) | [JavaScript版](./medium/39.combination-sum.js)
+| `中等` | [40. 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii) | [JavaScript版](./medium/40.combination-sum-ii.js)
 | `中等` | [46. 全排列](https://leetcode-cn.com/problems/permutations) | [JavaScript版](./medium/46.permutations.js)
 | `中等` | [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii) | [JavaScript版](./medium/47.permutations-ii.js)
 | `中等` | [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image) | [JavaScript版](./medium/48.rotate-image.js)
