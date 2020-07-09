@@ -72,6 +72,7 @@
 | `中等` | [337. 打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii) | [JavaScript版](./medium/337.house-robber-iii.js)
 | `中等` | [343. 整数拆分](https://leetcode-cn.com/problems/integer-break) | [JavaScript版](./medium/343.integer-break.js)
 | `简单` | [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string) | [JavaScript版](./easy/344.reverse-string.js)
+| `简单` | [401. 二进制手表](https://leetcode-cn.com/problems/binary-watch) | [JavaScript版](./easy/401.binary-watch.js)
 | `中等` | [416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum) | [JavaScript版](./medium/416.partition-equal-subset-sum.js)
 | `中等` | [429. N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal) | [JavaScript版](./medium/429.n-ary-tree-level-order-traversal.js)
 | `中等` | [450. 删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst) | [JavaScript版](./medium/450.delete-node-in-a-bst.js)
