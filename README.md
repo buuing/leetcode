@@ -35,6 +35,7 @@
 | `中等` | [78. 子集](https://leetcode-cn.com/problems/subsets) | [JavaScript版](./medium/78.subsets.js)
 | `简单` | [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array) | [JavaScript版](./easy/88.merge-sorted-array.js)
 | `中等` | [89. 格雷编码](https://leetcode-cn.com/problems/gray-code) | [JavaScript版](./medium/89.gray-code.js)
+| `中等` | [90. 子集 II](https://leetcode-cn.com/problems/subsets-ii) | [JavaScript版](./medium/90.subsets-ii.js)
 | `中等` | [91. 解码方法](https://leetcode-cn.com/problems/decode-ways) | [JavaScript版](./medium/91.decode-ways.js)
 | `中等` | [93. 复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses) | [JavaScript版](./medium/93.restore-ip-addresses.js)
 | `中等` | [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) | [JavaScript版](./medium/94.binary-tree-inorder-traversal.js)
