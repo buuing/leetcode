@@ -33,6 +33,7 @@
 | `简单` | [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs) | [JavaScript版](./easy/70.climbing-stairs.js)
 | `中等` | [77. 组合](https://leetcode-cn.com/problems/combinations/submissions) | [JavaScript版](./medium/77.submissions.js)
 | `中等` | [78. 子集](https://leetcode-cn.com/problems/subsets) | [JavaScript版](./medium/78.subsets.js)
+| `中等` | [79. 单词搜索](https://leetcode-cn.com/problems/word-search) | [JavaScript版](./medium/79.word-search.js)
 | `简单` | [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array) | [JavaScript版](./easy/88.merge-sorted-array.js)
 | `中等` | [89. 格雷编码](https://leetcode-cn.com/problems/gray-code) | [JavaScript版](./medium/89.gray-code.js)
 | `中等` | [90. 子集 II](https://leetcode-cn.com/problems/subsets-ii) | [JavaScript版](./medium/90.subsets-ii.js)
