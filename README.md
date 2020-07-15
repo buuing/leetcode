@@ -48,6 +48,7 @@
 | `简单` | [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) | [JavaScript版](./easy/121.best-time-to-buy-and-sell-stock.js)
 | `简单` | [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii) | [JavaScript版](./easy/122.best-time-to-buy-and-sell-stock-ii.js)
 | `简单` | [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome) | [JavaScript版](./easy/125.valid-palindrome.js)
+| `中等` | [130. 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions) | [JavaScript版](./medium/130.surrounded-regions.js)
 | `中等` | [131. 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning) | [JavaScript版](./medium/131.palindrome-partitioning.js)
 | `简单` | [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle) | [JavaScript版](./easy/141.linked-list-cycle.js)
 | `中等` | [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii) | [JavaScript版](./medium/142.linked-list-cycle-ii.js)
