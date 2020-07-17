@@ -23,6 +23,7 @@
 | `中等` | [46. 全排列](https://leetcode-cn.com/problems/permutations) | [JavaScript版](./medium/46.permutations.js)
 | `中等` | [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii) | [JavaScript版](./medium/47.permutations-ii.js)
 | `中等` | [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image) | [JavaScript版](./medium/48.rotate-image.js)
+| `困难` | [51. N皇后](https://leetcode-cn.com/problems/n-queens) | [JavaScript版](./hard/51.n-queens.js)
 | `中等` | [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix) | [JavaScript版](./medium/54.spiral-matrix.js)
 | `中等` | [62. 不同路径](https://leetcode-cn.com/problems/unique-paths) | [JavaScript版](./medium/62.unique-paths.js)
 | `中等` | [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii) | [JavaScript版](./medium/63.unique-paths-ii.js)
