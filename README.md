@@ -17,6 +17,7 @@
 | `简单` | [27. 移除元素](https://leetcode-cn.com/problems/remove-element) | [JavaScript版](./easy/27.remove-element.js)
 | `简单` | [28. 实现strStr()](https://leetcode-cn.com/problems/implement-strstr) | [JavaScript版](./easy/28.implement-strstr.js)
 | `中等` | [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [JavaScript版](./medium/34.find-first-and-last-position-of-element-in-sorted-array.js)
+| `困难` | [37. 解数独](https://leetcode-cn.com/problems/sudoku-solver) | [JavaScript版](./hard/37.sudoku-solver.js)
 | `简单` | [38. 报数](https://leetcode-cn.com/problems/count-and-say) | [JavaScript版](./easy/38.count-and-say.js)
 | `中等` | [39. 组合总和](https://leetcode-cn.com/problems/combination-sum) | [JavaScript版](./medium/39.combination-sum.js)
 | `中等` | [40. 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii) | [JavaScript版](./medium/40.combination-sum-ii.js)
