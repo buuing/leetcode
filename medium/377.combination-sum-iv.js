@@ -1,3 +1,20 @@
+// 回溯算法 (超时了)
+const combinationSum4 = (nums, target) => {
+  if (!target) return 0
+  let res = 0
+  nums.sort((a, b) => a - b)
+  const dfs = (target) => {
+    for (let i = 0; i < nums.length; i++) {
+      let next = target - nums[i]
+      if (next < 0) return false
+      else if (next === 0) return res++
+      else dfs(next)
+    }
+  }
+  dfs(target)
+  return res
+}
+
 // 动态规划 (效率极低)
 const combinationSum4 = (nums, target) => {
   if (!target) return 0
@@ -15,4 +32,23 @@ const combinationSum4 = (nums, target) => {
     }
   }
   return dp[target]
+}
+
+// 记忆化搜索 (效率一般)
+const combinationSum4 = (nums, target) => {
+  const memo = new Array(target + 1)
+  memo[0] = 1
+  nums.sort((a, b) => a - b)
+  const dfs = target => {
+    if (memo[target] === undefined) {
+      let sum = 0
+      for (let num of nums) {
+        if (target < num) break
+        sum += dfs(target - num)
+      }
+      memo[target] = sum
+    }
+    return memo[target]
+  }
+  return dfs(target)
 }
