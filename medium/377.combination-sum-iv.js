@@ -52,3 +52,17 @@ const combinationSum4 = (nums, target) => {
   }
   return dfs(target)
 }
+
+// 动态规划 (由记忆化搜索推导得出)
+const combinationSum4 = (nums, target) => {
+  const dp = [1]
+  nums.sort((a, b) => a - b)
+  for (let i = 1; i <= target; i++) {
+    dp[i] = 0
+    for (let num of nums) {
+      if (i < num) break
+      dp[i] += dp[i - num]
+    }
+  }
+  return dp[target]
+}
