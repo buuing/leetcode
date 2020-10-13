@@ -112,6 +112,7 @@
 | `简单` | [914. 卡牌分组](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards) | [JavaScript版](./easy/914.x-of-a-kind-in-a-deck-of-cards.js)
 | `中等` | [1008. 先序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal) | [JavaScript版](./medium/1008.construct-binary-search-tree-from-preorder-traversal.js)
 | `困难` | [1028. 从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal) | [JavaScript版](./hard/1028.recover-a-tree-from-preorder-traversal.js)
+| `简单` | [1046. 最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight) | [JavaScript版](./easy/1046.last-stone-weight.js)
 | `简单` | [1160. 拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters) | [JavaScript版](./easy/1160.find-words-that-can-be-formed-by-characters.js)
 | `中等` | [1219. 黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold) | [JavaScript版](./medium/1219.path-with-maximum-gold.js)
 | `简单` | [1422. 分割字符串的最大得分](https://leetcode-cn.com/problems/maximum-score-after-splitting-a-string) | [JavaScript版](./easy/1422.maximum-score-after-splitting-a-string.js)
