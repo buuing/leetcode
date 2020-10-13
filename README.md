@@ -84,6 +84,7 @@
 | `中等` | [343. 整数拆分](https://leetcode-cn.com/problems/integer-break) | [JavaScript版](./medium/343.integer-break.js)
 | `简单` | [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string) | [JavaScript版](./easy/344.reverse-string.js)
 | `中等` | [377. 组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv) | [JavaScript版](./medium/377.combination-sum-iv.js)
+| `简单` | [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence) | [JavaScript版](./easy/392.is-subsequence.js)
 | `简单` | [401. 二进制手表](https://leetcode-cn.com/problems/binary-watch) | [JavaScript版](./easy/401.binary-watch.js)
 | `中等` | [416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum) | [JavaScript版](./medium/416.partition-equal-subset-sum.js)
 | `中等` | [417. 太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow) | [JavaScript版](./medium/417.pacific-atlantic-water-flow.js)
