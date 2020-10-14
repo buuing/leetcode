@@ -27,6 +27,7 @@
 | `困难` | [51. N皇后](https://leetcode-cn.com/problems/n-queens) | [JavaScript版](./hard/51.n-queens.js)
 | `困难` | [52. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii) | [JavaScript版](./hard/52.n-queens-ii.js)
 | `中等` | [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix) | [JavaScript版](./medium/54.spiral-matrix.js)
+| `中等` | [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game) | [JavaScript版](./medium/55.jump-game.js)
 | `中等` | [62. 不同路径](https://leetcode-cn.com/problems/unique-paths) | [JavaScript版](./medium/62.unique-paths.js)
 | `中等` | [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii) | [JavaScript版](./medium/63.unique-paths-ii.js)
 | `中等` | [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum) | [JavaScript版](./medium/64.minimum-path-sum.js)
