@@ -55,6 +55,7 @@
 | `简单` | [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome) | [JavaScript版](./easy/125.valid-palindrome.js)
 | `中等` | [130. 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions) | [JavaScript版](./medium/130.surrounded-regions.js)
 | `中等` | [131. 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning) | [JavaScript版](./medium/131.palindrome-partitioning.js)
+| `中等` | [134. 加油站](https://leetcode-cn.com/problems/gas-station) | [JavaScript版](./medium/134.gas-station.js)
 | `简单` | [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle) | [JavaScript版](./easy/141.linked-list-cycle.js)
 | `中等` | [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii) | [JavaScript版](./medium/142.linked-list-cycle-ii.js)
 | `中等` | [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal) | [JavaScript版](./medium/144.binary-tree-preorder-traversal.js)
