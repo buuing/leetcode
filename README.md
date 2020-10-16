@@ -113,6 +113,7 @@
 | `简单` | [707. 设计链表](https://leetcode-cn.com/problems/design-linked-list) | [JavaScript版](./easy/707.design-linked-list.js)
 | `简单` | [724. 寻找数组的中心索引](https://leetcode-cn.com/problems/) | [JavaScript版](./easy/724.find-pivot-index.js)
 | `简单` | [747. 至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others) | [JavaScript版](./easy/747.largest-number-at-least-twice-of-others.js)
+| `简单` | [860. 柠檬水找零](https://leetcode-cn.com/problems/lemonade-change) | [JavaScript版](./easy/860.lemonade-change.js)
 | `简单` | [914. 卡牌分组](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards) | [JavaScript版](./easy/914.x-of-a-kind-in-a-deck-of-cards.js)
 | `中等` | [1008. 先序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal) | [JavaScript版](./medium/1008.construct-binary-search-tree-from-preorder-traversal.js)
 | `困难` | [1028. 从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal) | [JavaScript版](./hard/1028.recover-a-tree-from-preorder-traversal.js)
