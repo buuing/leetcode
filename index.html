@@ -7,8 +7,8 @@
 </head>
 <body>
   <ul>
-    <li><a href='/home'>home</a></li>
-    <li><a href='/about'>about</a></li>
+    <li><a href='/leetcode/home'>home</a></li>
+    <li><a href='/leetcode/about'>about</a></li>
  
     <div id="routeView"></div>
   </ul>
@@ -37,10 +37,10 @@ function onLoad () {
 // 路由变化时，根据路由渲染对应 UI
 function onPopState () {
   switch (location.pathname) {
-    case '/home':
+    case '/leetcode/home':
       routerView.innerHTML = 'Home'
       return
-    case '/about':
+    case '/leetcode/about':
       routerView.innerHTML = 'About'
       return
     default:
