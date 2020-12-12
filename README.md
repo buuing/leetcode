@@ -68,6 +68,7 @@
 | `简单` | [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber) | [JavaScript版](./easy/198.house-robber.js)
 | `中等` | [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands) | [JavaScript版](./medium/200.number-of-islands.js)
 | `简单` | [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements) | [JavaScript版](./easy/203.remove-linked-list-elements.js)
+| `简单` | [204. 计数质数](https://leetcode-cn.com/problems/count-primes) | [JavaScript版](./easy/204.count-primes.js)
 | `简单` | [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list) | [JavaScript版](./easy/206.reverse-linked-list.js)
 | `中等` | [209. 长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum) | [JavaScript版](./medium/209.minimum-size-subarray-sum.js)
 | `中等` | [213. 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii) | [JavaScript版](./medium/213.house-robber-ii.js)
