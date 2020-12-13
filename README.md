@@ -123,5 +123,6 @@
 | `简单` | [1046. 最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight) | [JavaScript版](./easy/1046.last-stone-weight.js)
 | `简单` | [1160. 拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters) | [JavaScript版](./easy/1160.find-words-that-can-be-formed-by-characters.js)
 | `中等` | [1219. 黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold) | [JavaScript版](./medium/1219.path-with-maximum-gold.js)
+| `简单` | [1221. 分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings) | [JavaScript版](./easy/1221.split-a-string-in-balanced-strings.js)
 | `简单` | [1403. 非递增顺序的最小子序列](https://leetcode-cn.com/problems/minimum-subsequence-in-non-increasing-order) | [JavaScript版](./easy/1403.minimum-subsequence-in-non-increasing-order.js)
 | `简单` | [1422. 分割字符串的最大得分](https://leetcode-cn.com/problems/maximum-score-after-splitting-a-string) | [JavaScript版](./easy/1422.maximum-score-after-splitting-a-string.js)
