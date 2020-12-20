@@ -116,6 +116,7 @@
 | `简单` | [724. 寻找数组的中心索引](https://leetcode-cn.com/problems/) | [JavaScript版](./easy/724.find-pivot-index.js)
 | `简单` | [747. 至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others) | [JavaScript版](./easy/747.largest-number-at-least-twice-of-others.js)
 | `简单` | [860. 柠檬水找零](https://leetcode-cn.com/problems/lemonade-change) | [JavaScript版](./easy/860.lemonade-change.js)
+| `简单` | [874. 模拟行走机器人](https://leetcode-cn.com/problems/walking-robot-simulation) | [JavaScript版](./easy/874.walking-robot-simulation.js)
 | `简单` | [914. 卡牌分组](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards) | [JavaScript版](./easy/914.x-of-a-kind-in-a-deck-of-cards.js)
 | `简单` | [944. 删列造序](https://leetcode-cn.com/problems/delete-columns-to-make-sorted) | [JavaScript版](./easy/944.delete-columns-to-make-sorted.js)
 | `简单` | [1005. K 次取反后最大化的数组和](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations) | [JavaScript版](./easy/1005.maximize-sum-of-array-after-k-negations.js)
