@@ -16,7 +16,7 @@
 
 ### 动态规划
 
-- 
+- [746. 使用最小花费爬楼梯](https://github.com/buuing/leetcode/issues/1) `简单`
 
 ### 旧的记录
 
