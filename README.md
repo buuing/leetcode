@@ -4,14 +4,14 @@
 
 ### 回溯算法
 
-- [46. 全排列](https://github.com/buuing/leetcode/issues/3)
-- [47. 全排列 II](https://github.com/buuing/leetcode/issues/4)
+- [46. 全排列](https://github.com/buuing/leetcode/issues/3) `中等`
+- [47. 全排列 II](https://github.com/buuing/leetcode/issues/4) `中等`
 
 ### 贪心算法
 
-- [860. 柠檬水找零](https://github.com/buuing/leetcode/issues/7) [简单]
-- [605. 种花问题](https://github.com/buuing/leetcode/issues/8) [简单]
-- [455. 分发饼干](https://github.com/buuing/leetcode/issues/6) [简单]
+- [860. 柠檬水找零](https://github.com/buuing/leetcode/issues/7) `简单`
+- [605. 种花问题](https://github.com/buuing/leetcode/issues/8) `简单`
+- [455. 分发饼干](https://github.com/buuing/leetcode/issues/6) `简单`
 
 ### 动态规划
 
