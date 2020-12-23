@@ -10,6 +10,7 @@
 ### 贪心算法
 
 - [860. 柠檬水找零](https://github.com/buuing/leetcode/issues/7) `简单`
+- [874. 模拟行走机器人](https://github.com/buuing/leetcode/issues/9) `简单`
 - [605. 种花问题](https://github.com/buuing/leetcode/issues/8) `简单`
 - [455. 分发饼干](https://github.com/buuing/leetcode/issues/6) `简单`
 
