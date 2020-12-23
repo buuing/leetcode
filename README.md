@@ -1,6 +1,21 @@
 # leetcode
 
-记录 javascript 解题思路  
+推荐的题目
+
+### 回溯算法
+
+- [46. 全排列](https://github.com/buuing/leetcode/issues/3)
+- [47. 全排列 II](https://github.com/buuing/leetcode/issues/4)
+
+### 贪心算法
+
+- 
+
+### 动态规划
+
+- 
+
+### 旧的记录
 
 | 难度 | 标题 | 题解 |
 | :---: | :--- | :--- |
