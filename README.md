@@ -34,8 +34,8 @@
 - [509.斐波那锲](https://github.com/buuing/leetcode/issues/11) `简单`
 - [70.爬楼梯](https://github.com/buuing/leetcode/issues/12) `简单`
 - [746. 使用最小花费爬楼梯](https://github.com/buuing/leetcode/issues/1) `简单`
-- [120.三角形最小路径和](#)
-- [64.最小路径和](#)
+- [120.三角形最小路径和](https://github.com/buuing/leetcode/issues/13) `中等`
+- [64.最小路径和](https://github.com/buuing/leetcode/issues/14) `中等`
 - 
 - [343.整数拆分](#)
 - [279.完全平方数](#)
