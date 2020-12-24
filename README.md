@@ -31,8 +31,8 @@
 
 ### 动态规划
 
-- [509.斐波那锲](#)
-- [70.爬楼梯](#)
+- [509.斐波那锲](https://github.com/buuing/leetcode/issues/11) `简单`
+- [70.爬楼梯](https://github.com/buuing/leetcode/issues/12) `简单`
 - [746. 使用最小花费爬楼梯](https://github.com/buuing/leetcode/issues/1) `简单`
 - [120.三角形最小路径和](#)
 - [64.最小路径和](#)
