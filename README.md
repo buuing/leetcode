@@ -2,6 +2,10 @@
 
 推荐的题目
 
+### 哈希表
+
+- [1. 两数之和](https://github.com/buuing/leetcode/issues/19) `简单`
+
 ### 回溯算法
 
 - [46. 全排列](https://github.com/buuing/leetcode/issues/3) `中等`
