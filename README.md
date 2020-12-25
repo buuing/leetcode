@@ -6,9 +6,9 @@
 
 - [46. 全排列](https://github.com/buuing/leetcode/issues/3) `中等`
 - [47. 全排列 II](https://github.com/buuing/leetcode/issues/4) `中等`
+- [77.组合](https://github.com/buuing/leetcode/issues/17) `中等`
+- [39.组合总和](https://github.com/buuing/leetcode/issues/18) `中等`
 - [131.分割回文串](#)
-- [77.组合](#)
-- [39.组合总和](#)
 - [40.组合总和 II](#)
 - [216.组合总和 III](#)
 - [401.二进制手表](#)
