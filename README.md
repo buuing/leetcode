@@ -9,6 +9,7 @@
 ### 双指针
 
 - [283. 移动零](https://github.com/buuing/leetcode/issues/20) `简单`
+- [88. 合并两个有序数组](https://github.com/buuing/leetcode/issues/21) `简单`
 
 ### 回溯算法
 
