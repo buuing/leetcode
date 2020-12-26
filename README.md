@@ -6,6 +6,10 @@
 
 - [1. 两数之和](https://github.com/buuing/leetcode/issues/19) `简单`
 
+### 双指针
+
+- [283. 移动零](https://github.com/buuing/leetcode/issues/20) `简单`
+
 ### 回溯算法
 
 - [46. 全排列](https://github.com/buuing/leetcode/issues/3) `中等`
