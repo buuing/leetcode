@@ -34,6 +34,7 @@
 - [874. 模拟行走机器人](https://github.com/buuing/leetcode/issues/9) `简单`
 - [605. 种花问题](https://github.com/buuing/leetcode/issues/8) `简单`
 - [455. 分发饼干](https://github.com/buuing/leetcode/issues/6) `简单`
+- [1046. 最后一块石头的重量](https://github.com/buuing/leetcode/issues/22) `简单`
 - [134. 加油站](#)
 
 ### 动态规划
