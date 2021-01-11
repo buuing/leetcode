@@ -1,5 +1,9 @@
 # 推荐的题目 (更新中...)
 
+### 数组
+
+- [189. 旋转数组](https://github.com/buuing/leetcode/issues/26) `中等`
+
 ### 哈希表
 
 - [1. 两数之和](https://github.com/buuing/leetcode/issues/19) `简单`
@@ -15,9 +19,9 @@
 - [47. 全排列 II](https://github.com/buuing/leetcode/issues/4) `中等`
 - [77. 组合](https://github.com/buuing/leetcode/issues/17) `中等`
 - [39. 组合总和](https://github.com/buuing/leetcode/issues/18) `中等`
+- [40. 组合总和 II](https://github.com/buuing/leetcode/issues/24) `中等`
+- [216. 组合总和 III](https://github.com/buuing/leetcode/issues/25) `中等`
 - [131. 分割回文串](#)
-- [40. 组合总和 II](#)
-- [216. 组合总和 III](#)
 - [401. 二进制手表](#)
 - [78. 子集](#)
 - [90. 子集 II](#)
