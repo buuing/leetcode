@@ -8,6 +8,13 @@
 
 - [1. 两数之和](https://github.com/buuing/leetcode/issues/19) `简单`
 
+### 树
+
+- [144. 二叉树的前序遍历](https://github.com/buuing/leetcode/issues/15) `中等`
+- [94. 二叉树的中序遍历](https://github.com/buuing/leetcode/issues/23) `中等`
+- [145. 二叉树的后序遍历](https://github.com/buuing/leetcode/issues/28) `中等`
+
+
 ### 双指针
 
 - [283. 移动零](https://github.com/buuing/leetcode/issues/20) `简单`
